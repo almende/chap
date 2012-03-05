@@ -10,8 +10,6 @@ so they may be tailored and diversified to suit different applications.
 
 ### Vision
 
-Vision
- 
 All Almende research is centered around the concept of self-organization. 
 Self-organization is the process by which complexity is handled in a system 
 without central guidance from an external source. Self-organization is a topic 
